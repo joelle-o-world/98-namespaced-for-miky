@@ -1,0 +1,13 @@
+{
+  "name": "98-for-miky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joelle Plow <joelleplow@aol.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  },
+  "scripts": {
+    "build": "yarn sass src/98-namespaced.scss dist/98-namespaced.css"
+  }
+}
